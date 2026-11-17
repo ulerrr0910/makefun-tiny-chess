@@ -1,10 +1,6 @@
+engine_v3.py
+main_v3.py
+verify3.py
+fake_env.py
 __pycache__/
 *.pyc
-engine.py
-verify.py
-fake_env.py
-engine_codex.py
-dev/
-*.log
-*.tmp
-.DS_Store

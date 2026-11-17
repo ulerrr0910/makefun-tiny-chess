@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+engine.py
+verify.py
+fake_env.py
+engine_codex.py
+dev/
+*.log
+*.tmp
+.DS_Store
